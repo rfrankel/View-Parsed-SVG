@@ -1,0 +1,7 @@
+Some Javascript code for viewing parsed SVG,
+using Raphael and an altered version of the Graffle demo 
+to see how well the Raphael framework works and which 
+things parse correctly, and which are still misplaced. 
+
+Usage: load raphaeltest.html in the browser. 
+
